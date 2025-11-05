@@ -260,3 +260,38 @@ button{
 .footer_2{
 	background-color: #171717;
 }
+.h2_text_font{
+	font-size: 26px;
+	text-align: center;
+}
+ul {
+	list-style-type: none;
+}
+	/* .organizer_class{
+		margin-top: 42px;
+	} */
+
+#Organizers {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#Call_for_Papers {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#important {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#Call_for_Papers {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#Venue {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#Contact {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#Program {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
+#Submission {
+  scroll-margin-top: 60px; /* adjust to your navbar height */
+}
