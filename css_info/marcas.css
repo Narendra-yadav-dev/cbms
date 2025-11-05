@@ -88,6 +88,13 @@ body {
 	background-color: #17141478;
 }
 
+.pdf-hero-content {
+	position: relative;
+	max-width: 1500px;
+	padding: 20px;
+	background-color: #17141478;
+}
+
 .hero h1 {
 	font-size: 34px;
 	font-weight: 700;
